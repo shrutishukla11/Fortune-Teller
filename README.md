@@ -1,2 +1,3 @@
 # Fortune-Teller
-![Screenshot (583)](https://github.com/shrutishukla11/Fortune-Teller/assets/102374779/7acc791c-c958-4005-9222-09c63241cf93)
+![Screenshot (540)](https://github.com/user-attachments/assets/697da993-89ec-4455-8136-0c32b39f6708)
+
